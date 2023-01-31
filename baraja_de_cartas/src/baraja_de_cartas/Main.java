@@ -1,6 +1,6 @@
 package baraja_de_cartas;
 import java.util.*;
-//Carlos Tenajas
+//Carlos Tenajas version para pruebas con git
 public class Main {	
 	//Metodo para inicializar el array de cartas sin mostralo
 	public static void iniciarArray(Carta[] cartas, String[] palos) {
